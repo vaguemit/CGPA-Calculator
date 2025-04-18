@@ -175,3 +175,4 @@ with tab2:
 
 
 st.markdown("Made with ❤️ by [Siddhesh Agarwal](https://github.com/Siddhesh-Agarwal)")
+st.markdown("Contributed by [Mit](https://github.com/vaguemit)")
